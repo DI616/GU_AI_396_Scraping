@@ -1,0 +1,1003 @@
+{
+  "status": "OK",
+  "totalHits": 718330,
+  "data": [
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "146870452",
+      "_score": 17.021461,
+      "_source": {
+        "id": "146870452",
+        "authors": [
+          "New Astronomy"
+        ],
+        "citations": [],
+        "contributors": [],
+        "datePublished": "2011-01-08T18:07:25Z",
+        "deleted": "ALLOWED",
+        "description": null,
+        "fullText": null,
+        "fullTextIdentifier": null,
+        "identifiers": [
+          "oai:cds.cern.ch:601150",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003Eoai:cds.cern.ch:601150\u003C\/identifier\u003E\u003Cdatestamp\u003E2013-11-12T15:42:42Z\u003C\/datestamp\u003E\u003CsetSpec\u003Eglobal\u003C\/setSpec\u003E\u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xmlns:xsi=\u0022http:\/\/www.w3.org\/2001\/XMLSchema-instance\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:language\u003E\n  eng\u003C\/dc:language\u003E\u003Cdc:creator\u003E\n  New Astronomy\u003C\/dc:creator\u003E\u003Cdc:title\u003E\n  Workshop on Supernovae and Dust\u003C\/dc:title\u003E\u003Cdc:subject\u003E\n  Astrophysics and Astronomy\u003C\/dc:subject\u003E\u003Cdc:date\u003E\n  2011-01-08T18:07:25Z\u003C\/dc:date\u003E\n\u003C\/oai_dc:dc\u003E\n\u003C\/metadata\u003E\u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "3290",
+            "openDoarId": 0,
+            "name": "Joint Institute for Nuclear Research (JINR)",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1518016813000,
+          "metadataUpdated": 1560290209000,
+          "timestamp": 1384270962000,
+          "depositedDate": 1384214400000,
+          "indexed": 0,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": null
+        },
+        "similarities": null,
+        "subjects": [
+          "Astrophysics and Astronomy"
+        ],
+        "title": "Workshop on Supernovae and Dust",
+        "topics": [
+          "Astrophysics and Astronomy"
+        ],
+        "types": [],
+        "urls": [],
+        "year": 2011,
+        "doi": null,
+        "oai": "oai:cds.cern.ch:601150",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1384214400000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "151017806",
+      "_score": 16.9811,
+      "_source": {
+        "id": "151017806",
+        "authors": [
+          "Columbia Astronomy (382279)"
+        ],
+        "citations": [],
+        "contributors": [],
+        "datePublished": "2013-02-26T14:27:29Z",
+        "deleted": "ALLOWED",
+        "description": "\u003Cp\u003ESlides from our Public Lecture \u0026 Stargazing event on February 15, 2013. Speaker was Gladys Velez Caicedo, a second year undergraduate at Barnard College.\u003C\/p",
+        "fullText": null,
+        "fullTextIdentifier": "https:\/\/figshare.com\/articles\/Public_Lecture_Stargazing_My_Life_as_a_Higgs_Boson\/640099",
+        "identifiers": [
+          "oai:figshare.com:article\/640099",
+          "10.6084\/m9.figshare.640099.v1"
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:figshare.com:article\/640099\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2013-02-26T14:27:29Z\u003C\/datestamp\u003E\u003CsetSpec\u003E\n        category_58\u003C\/setSpec\u003E\u003CsetSpec\u003E\n        category_112\u003C\/setSpec\u003E\u003CsetSpec\u003E\n        item_type_3\u003C\/setSpec\u003E\u003CsetSpec\u003E\n        month_year_02_2013\u003C\/setSpec\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xmlns:xsi=\u0022http:\/\/www.w3.org\/2001\/XMLSchema-instance\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          Public Lecture \u0026 Stargazing: My Life as a Higgs Boson\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Columbia Astronomy (382279)\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\n          Astrophysics\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          Particle Physics\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          columbia\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          outreach\u003C\/dc:subject\u003E\u003Cdc:description\u003E\n          \u003Cp\u003ESlides from our Public Lecture \u0026 Stargazing event on February 15, 2013. Speaker was Gladys Velez Caicedo, a second year undergraduate at Barnard College.\u003C\/p\u003E\u003C\/dc:description\u003E\u003Cdc:date\u003E\n          2013-02-26T14:27:29Z\u003C\/dc:date\u003E\u003Cdc:type\u003E\n          Dataset\u003C\/dc:type\u003E\u003Cdc:type\u003E\n          Dataset\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          10.6084\/m9.figshare.640099.v1\u003C\/dc:identifier\u003E\u003Cdc:relation\u003E\n          https:\/\/figshare.com\/articles\/Public_Lecture_Stargazing_My_Life_as_a_Higgs_Boson\/640099\u003C\/dc:relation\u003E\u003Cdc:rights\u003E\n          CC BY 4.0\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [
+          "https:\/\/figshare.com\/articles\/Public_Lecture_Stargazing_My_Life_as_a_Higgs_Boson\/640099"
+        ],
+        "repositories": [
+          {
+            "id": "2511",
+            "openDoarId": 0,
+            "name": "FigShare",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1518440525000,
+          "metadataUpdated": 1559686243000,
+          "timestamp": 1361888849000,
+          "depositedDate": 1361836800000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "https:\/\/figshare.com\/articles\/Public_Lecture_Stargazing_My_Life_as_a_Higgs_Boson\/640099"
+        },
+        "similarities": null,
+        "subjects": [
+          "Dataset",
+          "Dataset"
+        ],
+        "title": "Public Lecture \u0026 Stargazing: My Life as a Higgs Boson",
+        "topics": [
+          "Astrophysics",
+          "Particle Physics",
+          "columbia",
+          "outreach"
+        ],
+        "types": [],
+        "urls": [
+          "https:\/\/figshare.com\/articles\/Public_Lecture_Stargazing_My_Life_as_a_Higgs_Boson\/640099"
+        ],
+        "year": 2013,
+        "doi": "10.6084\/m9.figshare.640099.v1",
+        "oai": "oai:figshare.com:article\/640099",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1361836800000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "24335885",
+      "_score": 16.87635,
+      "_source": {
+        "id": "24335885",
+        "authors": [
+          "Space Astronomy"
+        ],
+        "citations": [],
+        "contributors": [
+          "The Pennsylvania State University CiteSeerX Archives"
+        ],
+        "datePublished": "2007-11-22",
+        "deleted": "ALLOWED",
+        "description": "Polarization data are given for stars whose polarizations are mostly interstellar which were observed for various programs with the University of Wisconsin spectropolarimeter (HPOL) during 1989--1994.  Key words: (ISM): general, dust, polarization 1. Introduction  The University of Wisconsin spectropolarimeter (known as HPOL) operated with a Reticon detector from 1989 to 1994. See Wolff et al. (1996) for a description of the instrument. During that time several dozen stars whose polarization is mostly interstellar were observed for various projects but which have not been reobserved with the new version of HPOL using the CCD detector installed in 1995, and the data for which has not been published as part of the original projects. The data are summarized here as an aid to ISM studies. Those stars without previously published data will be useful in studying the distribution of dust and in mapping the Galactic magnetic field, and the more polarized stars will add to the database of  max ..",
+        "fullText": null,
+        "fullTextIdentifier": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.52.9024",
+        "identifiers": [
+          "oai:CiteSeerX.psu:10.1.1.52.9024",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:CiteSeerX.psu:10.1.1.52.9024\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2009-04-12\u003C\/datestamp\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          Anthony J. W e i t e n b e c k\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Space Astronomy\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\n          Key words\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          ISM\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          general\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          dust\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          polarization\u003C\/dc:subject\u003E\u003Cdc:description\u003E\n          Polarization data are given for stars whose polarizations are mostly interstellar which were observed for various programs with the University of Wisconsin spectropolarimeter (HPOL) during 1989--1994.  Key words: (ISM): general, dust, polarization 1. Introduction  The University of Wisconsin spectropolarimeter (known as HPOL) operated with a Reticon detector from 1989 to 1994. See Wolff et al. (1996) for a description of the instrument. During that time several dozen stars whose polarization is mostly interstellar were observed for various projects but which have not been reobserved with the new version of HPOL using the CCD detector installed in 1995, and the data for which has not been published as part of the original projects. The data are summarized here as an aid to ISM studies. Those stars without previously published data will be useful in studying the distribution of dust and in mapping the Galactic magnetic field, and the more polarized stars will add to the database of  max ...\u003C\/dc:description\u003E\u003Cdc:contributor\u003E\n          The Pennsylvania State University CiteSeerX Archives\u003C\/dc:contributor\u003E\u003Cdc:publisher\u003E\n          \u003C\/dc:publisher\u003E\u003Cdc:date\u003E\n          2009-04-12\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          2007-11-22\u003C\/dc:date\u003E\u003Cdc:format\u003E\n          application\/postscript\u003C\/dc:format\u003E\u003Cdc:type\u003E\n          text\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.52.9024\u003C\/dc:identifier\u003E\u003Cdc:source\u003E\n          http:\/\/sal.wisc.edu\/~ajw\/actast49.ps\u003C\/dc:source\u003E\u003Cdc:language\u003E\n          en\u003C\/dc:language\u003E\u003Cdc:rights\u003E\n          Metadata may be used without restrictions as long as the oai identifier remains attached to it.\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "145",
+            "openDoarId": 0,
+            "name": "CiteSeerX",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1414016956000,
+          "metadataUpdated": 1529459734000,
+          "timestamp": 1239490800000,
+          "depositedDate": 1239490800000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.52.9024"
+        },
+        "similarities": null,
+        "subjects": [
+          "text"
+        ],
+        "title": "Anthony J. W e i t e n b e c k",
+        "topics": [
+          "Key words",
+          "ISM",
+          "general",
+          "dust",
+          "polarization"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.52.9024",
+          "http:\/\/sal.wisc.edu\/~ajw\/actast49.ps"
+        ],
+        "year": 2007,
+        "doi": null,
+        "oai": "oai:CiteSeerX.psu:10.1.1.52.9024",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1239490800000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "25367113",
+      "_score": 16.788729,
+      "_source": {
+        "id": "25367113",
+        "authors": [
+          "New Astronomy"
+        ],
+        "citations": [],
+        "contributors": [],
+        "datePublished": "2003",
+        "deleted": "ALLOWED",
+        "description": null,
+        "fullText": null,
+        "fullTextIdentifier": null,
+        "identifiers": [
+          "oai:cds.cern.ch:601150",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003Eoai:cds.cern.ch:601150\u003C\/identifier\u003E\u003Cdatestamp\u003E2019-09-30T06:29:59Z\u003C\/datestamp\u003E\u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xmlns:xsi=\u0022http:\/\/www.w3.org\/2001\/XMLSchema-instance\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:identifier\u003Ehttp:\/\/cds.cern.ch\/record\/601150\u003C\/dc:identifier\u003E\u003Cdc:language\u003Eeng\u003C\/dc:language\u003E\u003Cdc:creator\u003ENew Astronomy\u003C\/dc:creator\u003E\u003Cdc:title\u003EWorkshop on Supernovae and Dust\u003C\/dc:title\u003E\u003Cdc:subject\u003EAstrophysics and Astronomy\u003C\/dc:subject\u003E\u003Cdc:publisher\u003E\u003C\/dc:publisher\u003E\u003Cdc:identifier\u003Eoai:cds.cern.ch:601150\u003C\/dc:identifier\u003E\u003Cdc:date\u003E2003\u003C\/dc:date\u003E\u003C\/oai_dc:dc\u003E\n\u003C\/metadata\u003E\u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "636",
+            "openDoarId": 0,
+            "name": "CERN Document Server",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "baseId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1414682856000,
+          "metadataUpdated": 1592674759000,
+          "timestamp": 1569821399000,
+          "depositedDate": 1479772800000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": null
+        },
+        "similarities": null,
+        "subjects": [
+          "Astrophysics and Astronomy"
+        ],
+        "title": "Workshop on Supernovae and Dust",
+        "topics": [
+          "Astrophysics and Astronomy"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/cds.cern.ch\/record\/601150"
+        ],
+        "year": 2003,
+        "doi": null,
+        "oai": "oai:cds.cern.ch:601150",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1479772800000,
+        "publishedDate": null,
+        "issn": null,
+        "attachmentCount": 0,
+        "repositoryPublicReleaseDate": null,
+        "extendedMetadataAttributes": null,
+        "crossrefDocument": null,
+        "magDocument": null,
+        "orcidAuthors": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "106186615",
+      "_score": 16.134367,
+      "_source": {
+        "id": "106186615",
+        "authors": [
+          "Nigel Clayton (astronomy"
+        ],
+        "citations": [],
+        "contributors": [
+          "The Pennsylvania State University CiteSeerX Archives"
+        ],
+        "datePublished": "2016-09-17",
+        "deleted": "ALLOWED",
+        "description": "Abstract: This paper summarises an investigation into the wide ranging methods employed to determine the distance to the Galactic centre, Ro. Remote methods commonly use luminosity reference objects such as RR Lyraes and red clump stars. Ruler methods involve annual parallax or line-of-sight velocity. Examples of all the methods are described and their limitations discussed. The main uncertainties with remote methods arise from calibration, extinction and group eccentricity. The main uncertainties with ruler methods arise from object location error and unknowns in relation to Galactic rotation. A total of 63 determinations were studied, from which six remote method and six ruler method determinations are identified for refining the value of Ro. Both categories are found to give the same mean value of Ro = 7.9  0.3 kpc. High-precision astrometry of objects within the Galactic nucleus provides the most potential for improvement in accuracy of the determination of Ro",
+        "fullText": null,
+        "fullTextIdentifier": "http:\/\/bcur.org\/journals\/index.php\/Diffusion\/article\/download\/67\/53\/",
+        "identifiers": [
+          "oai:CiteSeerX.psu:10.1.1.891.8958",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:CiteSeerX.psu:10.1.1.891.8958\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2016-09-17\u003C\/datestamp\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          DETERMINATION OF THE DISTANCE TO THE GALACTIC CENTRE\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Nigel Clayton (astronomy\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\n          Galaxy\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          Galactic centre\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          distance determination\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          parallax\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          astrometry\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n          Sgr A\u003C\/dc:subject\u003E\u003Cdc:description\u003E\n          Abstract: This paper summarises an investigation into the wide ranging methods employed to determine the distance to the Galactic centre, Ro. Remote methods commonly use luminosity reference objects such as RR Lyraes and red clump stars. Ruler methods involve annual parallax or line-of-sight velocity. Examples of all the methods are described and their limitations discussed. The main uncertainties with remote methods arise from calibration, extinction and group eccentricity. The main uncertainties with ruler methods arise from object location error and unknowns in relation to Galactic rotation. A total of 63 determinations were studied, from which six remote method and six ruler method determinations are identified for refining the value of Ro. Both categories are found to give the same mean value of Ro = 7.9  0.3 kpc. High-precision astrometry of objects within the Galactic nucleus provides the most potential for improvement in accuracy of the determination of Ro.\u003C\/dc:description\u003E\u003Cdc:contributor\u003E\n          The Pennsylvania State University CiteSeerX Archives\u003C\/dc:contributor\u003E\u003Cdc:publisher\u003E\n          \u003C\/dc:publisher\u003E\u003Cdc:date\u003E\n          2016-09-17\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          2016-09-17\u003C\/dc:date\u003E\u003Cdc:type\u003E\n          text\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.891.8958\u003C\/dc:identifier\u003E\u003Cdc:source\u003E\n          http:\/\/bcur.org\/journals\/index.php\/Diffusion\/article\/download\/67\/53\/\u003C\/dc:source\u003E\u003Cdc:language\u003E\n          en\u003C\/dc:language\u003E\u003Cdc:rights\u003E\n          Metadata may be used without restrictions as long as the oai identifier remains attached to it.\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "145",
+            "openDoarId": 0,
+            "name": "CiteSeerX",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1509425094000,
+          "metadataUpdated": 1529506716000,
+          "timestamp": 1474066800000,
+          "depositedDate": 1474066800000,
+          "indexed": 0,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "http:\/\/bcur.org\/journals\/index.php\/Diffusion\/article\/download\/67\/53\/"
+        },
+        "similarities": null,
+        "subjects": [
+          "text"
+        ],
+        "title": "DETERMINATION OF THE DISTANCE TO THE GALACTIC CENTRE",
+        "topics": [
+          "Galaxy",
+          "Galactic centre",
+          "distance determination",
+          "parallax",
+          "astrometry",
+          "Sgr A"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/bcur.org\/journals\/index.php\/Diffusion\/article\/download\/67\/53\/",
+          "http:\/\/bcur.org\/journals\/index.php\/Diffusion\/article\/download\/67\/53\/",
+          "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.891.8958"
+        ],
+        "year": 2016,
+        "doi": null,
+        "oai": "oai:CiteSeerX.psu:10.1.1.891.8958",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1474066800000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "24502739",
+      "_score": 16.012205,
+      "_source": {
+        "id": "24502739",
+        "authors": [
+          "Astronomy Letters Vol"
+        ],
+        "citations": [],
+        "contributors": [
+          "The Pennsylvania State University CiteSeerX Archives"
+        ],
+        "datePublished": "2007-11-21",
+        "deleted": "ALLOWED",
+        "description": "We study the effects of possible deviations of fundamental physical constants on the yields of light  nuclides,          Li, and others during primordial nucleosynthesis. The deviations of fundamental constants  from their current values are considered in the low-energy approximation of string theories; the latter predict  the existence of a scalar field, which, apart from the tensor gravitational field, determines the space geometry",
+        "fullText": null,
+        "fullTextIdentifier": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.7.8654",
+        "identifiers": [
+          "oai:CiteSeerX.psu:10.1.1.7.8654",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:CiteSeerX.psu:10.1.1.7.8654\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2009-04-18\u003C\/datestamp\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          MAIK \u0026quot;Nauka \/ Interperiodica\u0026quot; 0615\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Astronomy Letters Vol\u003C\/dc:creator\u003E\u003Cdc:description\u003E\n          We study the effects of possible deviations of fundamental physical constants on the yields of light  nuclides,          Li, and others during primordial nucleosynthesis. The deviations of fundamental constants  from their current values are considered in the low-energy approximation of string theories; the latter predict  the existence of a scalar field, which, apart from the tensor gravitational field, determines the space geometry.\u003C\/dc:description\u003E\u003Cdc:contributor\u003E\n          The Pennsylvania State University CiteSeerX Archives\u003C\/dc:contributor\u003E\u003Cdc:publisher\u003E\n          \u003C\/dc:publisher\u003E\u003Cdc:date\u003E\n          2009-04-18\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          2007-11-21\u003C\/dc:date\u003E\u003Cdc:format\u003E\n          application\/postscript\u003C\/dc:format\u003E\u003Cdc:type\u003E\n          text\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.7.8654\u003C\/dc:identifier\u003E\u003Cdc:source\u003E\n          http:\/\/www.ioffe.rssi.ru\/astro\/DTA\/..\/Stars\/Paper\/iov01.ps.gz\u003C\/dc:source\u003E\u003Cdc:language\u003E\n          en\u003C\/dc:language\u003E\u003Cdc:rights\u003E\n          Metadata may be used without restrictions as long as the oai identifier remains attached to it.\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "145",
+            "openDoarId": 0,
+            "name": "CiteSeerX",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1414017814000,
+          "metadataUpdated": 1529481132000,
+          "timestamp": 1240009200000,
+          "depositedDate": 1240009200000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.7.8654"
+        },
+        "similarities": null,
+        "subjects": [
+          "text"
+        ],
+        "title": "MAIK \u0026quot;Nauka \/ Interperiodica\u0026quot; 0615",
+        "topics": [],
+        "types": [],
+        "urls": [
+          "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.7.8654",
+          "http:\/\/www.ioffe.rssi.ru\/astro\/DTA\/..\/Stars\/Paper\/iov01.ps.gz"
+        ],
+        "year": 2007,
+        "doi": null,
+        "oai": "oai:CiteSeerX.psu:10.1.1.7.8654",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1240009200000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "42405000",
+      "_score": 16.002022,
+      "_source": {
+        "id": "42405000",
+        "authors": [
+          "Peter Millican"
+        ],
+        "citations": [],
+        "contributors": [],
+        "datePublished": "2010-12-09T11:48:04Z",
+        "deleted": "ALLOWED",
+        "description": "Part 1.3. Describes briefly the Aristotelian view of the universe; the basis for natural science in Europe until the 15th century and its conflict Galileo\u0027s theories",
+        "fullText": null,
+        "fullTextIdentifier": null,
+        "identifiers": [
+          "oai:http:\/\/find.jorum.ac.uk\/resources\/10949\/11611",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": "Oxford University",
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n        \n            \n                oai:http:\/\/find.jorum.ac.uk\/resources\/10949\/11611\u003C\/identifier\u003E\u003Cdatestamp\u003E\n                2013-03-11T11:15:31Z\u003C\/datestamp\u003E\u003CsetSpec\u003E\n                com_10949_25\u003C\/setSpec\u003E\u003CsetSpec\u003E\n                col_10949_34\u003C\/setSpec\u003E\n            \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xmlns:doc=\u0022http:\/\/www.lyncode.com\/xoai\u0022 xmlns:xsi=\u0022http:\/\/www.w3.org\/2001\/XMLSchema-instance\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n            \n1.3 Science from Aristotle to Galileo\u003C\/dc:title\u003E\u003Cdc:creator\u003E\nPeter Millican\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\nphilosophy\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\naristotle\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\ngalileo\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nscience\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nreligion\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nastronomy\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nv500\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nv380\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nukoer\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nHistorical \u0026 philosophical studies\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nV000\u003C\/dc:subject\u003E\u003Cdc:description\u003E\nPart 1.3. Describes briefly the Aristotelian view of the universe; the basis for natural science in Europe until the 15th century and its conflict Galileo\u0027s theories.\u003C\/dc:description\u003E\u003Cdc:date\u003E\n2010-02-19T12:49:19Z\u003C\/dc:date\u003E\u003Cdc:date\u003E\n2010-12-09T11:48:04Z\u003C\/dc:date\u003E\u003Cdc:date\u003E\n2010-12-09T11:48:04Z\u003C\/dc:date\u003E\u003Cdc:identifier\u003E\nhttp:\/\/rss.oucs.ox.ac.uk\/tag:2010-02-19:130251:730:philfac\/general-philosophy-vi\u003C\/dc:identifier\u003E\u003Cdc:identifier\u003E\nhttp:\/\/dspace.jorum.ac.uk\/xmlui\/handle\/10949\/11611\u003C\/dc:identifier\u003E\u003Cdc:language\u003E\nen-GB\u003C\/dc:language\u003E\u003Cdc:relation\u003E\nWEB_LINK\u003C\/dc:relation\u003E\u003Cdc:relation\u003E\nhttp:\/\/media.podcasts.ox.ac.uk\/philfac\/general_philosophy\/1_3_millican.mp4?CAMEFROM=jorumopenRSS\u003C\/dc:relation\u003E\u003Cdc:rights\u003E\nAttribution-Noncommercial-Share Alike 2.0 UK: England \u0026 Wales\u003C\/dc:rights\u003E\u003Cdc:rights\u003E\nhttp:\/\/creativecommons.org\/licenses\/by-nc-sa\/2.0\/uk\/\u003C\/dc:rights\u003E\u003Cdc:format\u003E\nvideo\/mp4\u003C\/dc:format\u003E\u003Cdc:publisher\u003E\nOxford University\u003C\/dc:publisher\u003E\n\u003C\/oai_dc:dc\u003E\n\u003C\/metadata\u003E\n        \u003C\/record\u003E",
+        "relations": [
+          "WEB_LINK",
+          "http:\/\/media.podcasts.ox.ac.uk\/philfac\/general_philosophy\/1_3_millican.mp4?CAMEFROM=jorumopenRSS"
+        ],
+        "repositories": [
+          {
+            "id": "56",
+            "openDoarId": 0,
+            "name": "Jorum Open",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1469735288000,
+          "metadataUpdated": 1469735288000,
+          "timestamp": 1469737892000,
+          "depositedDate": 1362960000000,
+          "indexed": 0,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": null
+        },
+        "similarities": null,
+        "subjects": [
+          "philosophy",
+          "aristotle",
+          "galileo",
+          "science",
+          "religion",
+          "astronomy",
+          "v500",
+          "v380",
+          "ukoer",
+          "Historical \u0026 philosophical studies",
+          "V000"
+        ],
+        "title": "1.3 Science from Aristotle to Galileo",
+        "topics": [
+          "philosophy",
+          "aristotle",
+          "galileo",
+          "science",
+          "religion",
+          "astronomy",
+          "v500",
+          "v380",
+          "ukoer",
+          "Historical \u0026 philosophical studies",
+          "V000"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/creativecommons.org\/licenses\/by-nc-sa\/2.0\/uk\/",
+          "http:\/\/media.podcasts.ox.ac.uk\/philfac\/general_philosophy\/1_3_millican.mp4?CAMEFROM=jorumopenRSS",
+          "http:\/\/dspace.jorum.ac.uk\/xmlui\/handle\/10949\/11611",
+          "http:\/\/rss.oucs.ox.ac.uk\/tag:2010-02-19:130251:730:philfac\/general-philosophy-vi"
+        ],
+        "year": 2010,
+        "doi": null,
+        "oai": "oai:http:\/\/find.jorum.ac.uk\/resources\/10949\/11611",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1362960000000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "326784628",
+      "_score": 16.002022,
+      "_source": {
+        "id": "326784628",
+        "authors": [
+          "\u03a0\u03b9\u03c4\u03c3\u03b1\u03bb\u03af\u03b4\u03b7\u03c2, \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2"
+        ],
+        "citations": [],
+        "contributors": [],
+        "datePublished": "2019-02-01",
+        "deleted": "ALLOWED",
+        "description": "\u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1\u03c2 \u03b4\u03b9\u03c0\u03bb\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03ac\u03b4\u03b5\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b5\u03be\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c7\u03b1\u03af\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2 (\u03c6\u03b9\u03bb\u03bf\u03c3\u03bf\u03c6\u03af\u03b1, \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac, \u03b3\u03b5\u03c9\u03b4\u03b1\u03b9\u03c3\u03af\u03b1, \u03c7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1, \u03bd\u03b1\u03c5\u03c3\u03b9\u03c0\u03bb\u03bf\u0390\u03b1), \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c4\u03ae \u03b7 \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1\u03c2 \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \n\n\u03a3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1, \u03c6\u03b1\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b5\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03ac \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.\n\n\u0388\u03c0\u03b5\u03b9\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03c9\u03bd \u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03c9\u03bd, \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u00abDe facie in orbe lunae\u00bb \u03c4\u03bf\u03c5 \u03a0\u03bb\u03bf\u03c5\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5, \u03b1\u03c0\u03cc \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bc\u03b5 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03bd\u03ad\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03bf\u03b4\u03b7\u03b3\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03ba\u03b1\u03b9\u03bd\u03bf\u03cd\u03c1\u03b3\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2. \n\n\u03a3\u03c4\u03bf \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c7\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b5\u03ba\u03c4\u03b5\u03bd\u03ad\u03c3\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03bd\u03b1\u03cc \u03c4\u03bf\u03c5 \u0391\u03c0\u03cc\u03bb\u03bb\u03c9\u03bd\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u0394\u03b5\u03bb\u03c6\u03bf\u03cd\u03c2, \u03ad\u03bd\u03b1 \u03bc\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2, \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1.\n\n\u03a3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ce\u03bd \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03c9\u03bd \u03c0\u03c5\u03c1\u03b1\u03bc\u03af\u03b4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bc\u03c0\u03bb\u03ad\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0393\u03ba\u03af\u03b6\u03b1\u03c2, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03b9\u03bd\u03cc \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7 \u03b6\u03ce\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03a9\u03c1\u03af\u03c9\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03ae \u03bc\u03c5\u03b8\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03b1\u03b9\u03c4\u03af\u03b1 \u03c0\u03af\u03c3\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd.\n\n\u039a\u03b1\u03c4\u03b1\u03bb\u03ae\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2, \u03b7 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c0\u03c4\u03b9\u03ba\u03ae, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bf \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b4\u03c1\u03b1\u03af\u03c9\u03c3\u03ae \u03c4\u03b7\u03c2, \u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae. \u03a5\u03c0\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03ba\u03c5\u03c8\u03b1\u03bd, \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03b1\u03c1\u03cd\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf.\u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1\u03c2 \u03b4\u03b9\u03c0\u03bb\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03ac\u03b4\u03b5\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b5\u03be\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c7\u03b1\u03af\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2 (\u03c6\u03b9\u03bb\u03bf\u03c3\u03bf\u03c6\u03af\u03b1, \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac, \u03b3\u03b5\u03c9\u03b4\u03b1\u03b9\u03c3\u03af\u03b1, \u03c7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1, \u03bd\u03b1\u03c5\u03c3\u03b9\u03c0\u03bb\u03bf\u0390\u03b1), \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c4\u03ae \u03b7 \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1\u03c2 \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \n\n\u03a3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1, \u03c6\u03b1\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b5\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03ac \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.\n\n\u0388\u03c0\u03b5\u03b9\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03c9\u03bd \u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03c9\u03bd, \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u00abDe facie in orbe lunae\u00bb \u03c4\u03bf\u03c5 \u03a0\u03bb\u03bf\u03c5\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5, \u03b1\u03c0\u03cc \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bc\u03b5 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03bd\u03ad\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03bf\u03b4\u03b7\u03b3\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03ba\u03b1\u03b9\u03bd\u03bf\u03cd\u03c1\u03b3\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2. \n\n\u03a3\u03c4\u03bf \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c7\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b5\u03ba\u03c4\u03b5\u03bd\u03ad\u03c3\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03bd\u03b1\u03cc \u03c4\u03bf\u03c5 \u0391\u03c0\u03cc\u03bb\u03bb\u03c9\u03bd\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u0394\u03b5\u03bb\u03c6\u03bf\u03cd\u03c2, \u03ad\u03bd\u03b1 \u03bc\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2, \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1.\n\n\u03a3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ce\u03bd \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03c9\u03bd \u03c0\u03c5\u03c1\u03b1\u03bc\u03af\u03b4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bc\u03c0\u03bb\u03ad\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0393\u03ba\u03af\u03b6\u03b1\u03c2, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03b9\u03bd\u03cc \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7 \u03b6\u03ce\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03a9\u03c1\u03af\u03c9\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03ae \u03bc\u03c5\u03b8\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03b1\u03b9\u03c4\u03af\u03b1 \u03c0\u03af\u03c3\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd.\n\n\u039a\u03b1\u03c4\u03b1\u03bb\u03ae\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2, \u03b7 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c0\u03c4\u03b9\u03ba\u03ae, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bf \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b4\u03c1\u03b1\u03af\u03c9\u03c3\u03ae \u03c4\u03b7\u03c2, \u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae. \u03a5\u03c0\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03ba\u03c5\u03c8\u03b1\u03bd, \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03b1\u03c1\u03cd\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf",
+        "fullText": null,
+        "fullTextIdentifier": null,
+        "identifiers": [
+          "oai:hellanicus.lib.aegean.gr:11610\/20539",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n        \n            \n                oai:hellanicus.lib.aegean.gr:11610\/20539\u003C\/identifier\u003E\u003Cdatestamp\u003E\n                2020-04-29T06:53:25Z\u003C\/datestamp\u003E\u003CsetSpec\u003E\n                com_11610_5426\u003C\/setSpec\u003E\u003CsetSpec\u003E\n                com_11610_21\u003C\/setSpec\u003E\u003CsetSpec\u003E\n                com_11610_1\u003C\/setSpec\u003E\u003CsetSpec\u003E\n                col_11610_5430\u003C\/setSpec\u003E\n            \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xmlns:doc=\u0022http:\/\/www.lyncode.com\/xoai\u0022 xmlns:xsi=\u0022http:\/\/www.w3.org\/2001\/XMLSchema-instance\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n            \n\u0395\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03b7\u03c3\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ce\u03bd \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf: \u03ba\u03b1\u03c4\u03b1\u03bb\u03bf\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03b4\u03b9\u03b5\u03c1\u03b5\u03cd\u03bd\u03b7\u03c3\u03b7\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n\u03a0\u03b9\u03c4\u03c3\u03b1\u03bb\u03af\u03b4\u03b7\u03c2, \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\n\u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\n\u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\narchaeoastronomy\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nastronomy\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nGreece\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nLandscape archaeology\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nGreece--Antiquities\u003C\/dc:subject\u003E\u003Cdc:subject\u003E\nArchaeometry\u003C\/dc:subject\u003E\u003Cdc:description\u003E\n\u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1\u03c2 \u03b4\u03b9\u03c0\u03bb\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03ac\u03b4\u03b5\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b5\u03be\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c7\u03b1\u03af\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2 (\u03c6\u03b9\u03bb\u03bf\u03c3\u03bf\u03c6\u03af\u03b1, \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac, \u03b3\u03b5\u03c9\u03b4\u03b1\u03b9\u03c3\u03af\u03b1, \u03c7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1, \u03bd\u03b1\u03c5\u03c3\u03b9\u03c0\u03bb\u03bf\u0390\u03b1), \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c4\u03ae \u03b7 \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1\u03c2 \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \n\n\u03a3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1, \u03c6\u03b1\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b5\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03ac \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.\n\n\u0388\u03c0\u03b5\u03b9\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03c9\u03bd \u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03c9\u03bd, \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u00abDe facie in orbe lunae\u00bb \u03c4\u03bf\u03c5 \u03a0\u03bb\u03bf\u03c5\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5, \u03b1\u03c0\u03cc \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bc\u03b5 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03bd\u03ad\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03bf\u03b4\u03b7\u03b3\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03ba\u03b1\u03b9\u03bd\u03bf\u03cd\u03c1\u03b3\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2. \n\n\u03a3\u03c4\u03bf \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c7\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b5\u03ba\u03c4\u03b5\u03bd\u03ad\u03c3\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03bd\u03b1\u03cc \u03c4\u03bf\u03c5 \u0391\u03c0\u03cc\u03bb\u03bb\u03c9\u03bd\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u0394\u03b5\u03bb\u03c6\u03bf\u03cd\u03c2, \u03ad\u03bd\u03b1 \u03bc\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2, \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1.\n\n\u03a3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ce\u03bd \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03c9\u03bd \u03c0\u03c5\u03c1\u03b1\u03bc\u03af\u03b4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bc\u03c0\u03bb\u03ad\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0393\u03ba\u03af\u03b6\u03b1\u03c2, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03b9\u03bd\u03cc \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7 \u03b6\u03ce\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03a9\u03c1\u03af\u03c9\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03ae \u03bc\u03c5\u03b8\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03b1\u03b9\u03c4\u03af\u03b1 \u03c0\u03af\u03c3\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd.\n\n\u039a\u03b1\u03c4\u03b1\u03bb\u03ae\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2, \u03b7 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c0\u03c4\u03b9\u03ba\u03ae, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bf \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b4\u03c1\u03b1\u03af\u03c9\u03c3\u03ae \u03c4\u03b7\u03c2, \u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae. \u03a5\u03c0\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03ba\u03c5\u03c8\u03b1\u03bd, \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03b1\u03c1\u03cd\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf.\u003C\/dc:description\u003E\u003Cdc:description\u003E\n\u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1\u03c2 \u03b4\u03b9\u03c0\u03bb\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03ac\u03b4\u03b5\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b5\u03be\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c7\u03b1\u03af\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2 (\u03c6\u03b9\u03bb\u03bf\u03c3\u03bf\u03c6\u03af\u03b1, \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac, \u03b3\u03b5\u03c9\u03b4\u03b1\u03b9\u03c3\u03af\u03b1, \u03c7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1, \u03bd\u03b1\u03c5\u03c3\u03b9\u03c0\u03bb\u03bf\u0390\u03b1), \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c4\u03ae \u03b7 \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1\u03c2 \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \n\n\u03a3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03bb\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1, \u03c6\u03b1\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b5\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03ac \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.\n\n\u0388\u03c0\u03b5\u03b9\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03c9\u03bd \u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03c9\u03bd, \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7, \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u00abDe facie in orbe lunae\u00bb \u03c4\u03bf\u03c5 \u03a0\u03bb\u03bf\u03c5\u03c4\u03ac\u03c1\u03c7\u03bf\u03c5, \u03b1\u03c0\u03cc \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bc\u03b5 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03bd\u03ad\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c0\u03bf\u03c5 \u03bf\u03b4\u03b7\u03b3\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03ba\u03b1\u03b9\u03bd\u03bf\u03cd\u03c1\u03b3\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2. \n\n\u03a3\u03c4\u03bf \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c7\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b5\u03ba\u03c4\u03b5\u03bd\u03ad\u03c3\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03bd\u03b1\u03cc \u03c4\u03bf\u03c5 \u0391\u03c0\u03cc\u03bb\u03bb\u03c9\u03bd\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u0394\u03b5\u03bb\u03c6\u03bf\u03cd\u03c2, \u03ad\u03bd\u03b1 \u03bc\u03bd\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03af\u03b1\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1\u03c2, \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1.\n\n\u03a3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ce\u03bd \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03c9\u03bd \u03c0\u03c5\u03c1\u03b1\u03bc\u03af\u03b4\u03c9\u03bd \u03c4\u03b7\u03c2 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bc\u03c0\u03bb\u03ad\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0393\u03ba\u03af\u03b6\u03b1\u03c2, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03b9\u03bd\u03cc \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7 \u03b6\u03ce\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03a9\u03c1\u03af\u03c9\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03ae \u03bc\u03c5\u03b8\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03b1\u03b9\u03c4\u03af\u03b1 \u03c0\u03af\u03c3\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd.\n\n\u039a\u03b1\u03c4\u03b1\u03bb\u03ae\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2, \u03b7 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c0\u03c4\u03b9\u03ba\u03ae, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03bf \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b4\u03c1\u03b1\u03af\u03c9\u03c3\u03ae \u03c4\u03b7\u03c2, \u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae. \u03a5\u03c0\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03ba\u03c5\u03c8\u03b1\u03bd, \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd, \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b2\u03b1\u03c1\u03cd\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf.\u003C\/dc:description\u003E\u003Cdc:date\u003E\n2020-04-22T07:56:56Z\u003C\/dc:date\u003E\u003Cdc:date\u003E\n2020-04-22T07:56:56Z\u003C\/dc:date\u003E\u003Cdc:date\u003E\n2019-02-01\u003C\/dc:date\u003E\u003Cdc:identifier\u003E\nhttp:\/\/hdl.handle.net\/11610\/20539\u003C\/dc:identifier\u003E\u003Cdc:language\u003E\nel_GR\u003C\/dc:language\u003E\u003Cdc:rights\u003E\nDefault License\u003C\/dc:rights\u003E\u003Cdc:format\u003E\n104 \u03c3.\u003C\/dc:format\u003E\u003Cdc:coverage\u003E\n\u03a1\u03cc\u03b4\u03bf\u03c2\u003C\/dc:coverage\u003E\n\u003C\/oai_dc:dc\u003E\n\u003C\/metadata\u003E\n        \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "8110",
+            "openDoarId": 0,
+            "name": "\u0399\u03b4\u03c1\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u0391\u03c0\u03bf\u03b8\u03b5\u03c4\u03ae\u03c1\u03b9\u03bf \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "baseId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1594523100000,
+          "metadataUpdated": 1594523100000,
+          "timestamp": 1588139605000,
+          "depositedDate": 1588139605000,
+          "indexed": 0,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": null
+        },
+        "similarities": null,
+        "subjects": [
+          "\u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1",
+          "\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "archaeoastronomy",
+          "astronomy",
+          "Greece",
+          "Landscape archaeology",
+          "Greece--Antiquities",
+          "Archaeometry"
+        ],
+        "title": "\u0395\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03b7\u03c3\u03b7 \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ce\u03bd \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03cc \u03c7\u03ce\u03c1\u03bf: \u03ba\u03b1\u03c4\u03b1\u03bb\u03bf\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03b4\u03b9\u03b5\u03c1\u03b5\u03cd\u03bd\u03b7\u03c3\u03b7",
+        "topics": [
+          "\u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1",
+          "\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "archaeoastronomy",
+          "astronomy",
+          "Greece",
+          "Landscape archaeology",
+          "Greece--Antiquities",
+          "Archaeometry"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/hdl.handle.net\/11610\/20539"
+        ],
+        "year": 2019,
+        "doi": null,
+        "oai": "oai:hellanicus.lib.aegean.gr:11610\/20539",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1588139605000,
+        "publishedDate": null,
+        "issn": null,
+        "attachmentCount": 0,
+        "repositoryPublicReleaseDate": null,
+        "extendedMetadataAttributes": null,
+        "crossrefDocument": null,
+        "magDocument": null,
+        "orcidAuthors": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "24406091",
+      "_score": 15.946904,
+      "_source": {
+        "id": "24406091",
+        "authors": [
+          "Astronomy Letters Vol"
+        ],
+        "citations": [],
+        "contributors": [
+          "The Pennsylvania State University CiteSeerX Archives"
+        ],
+        "datePublished": "2007-11-21",
+        "deleted": "ALLOWED",
+        "description": "The possibility of cosmic-ray (CR) acceleration to energies above 10    GeV per nucleus in extended  Galactic OB associations is analyzed. A two-stage acceleration mechanism is justified: at the first stage, the  acceleration by separate shock fronts from spatially and temporally correlated supernovae explosions takes  place, and, at the second stage, the Fermi acceleration by supersonic turbulence in an extended, strongly perturbed  region near the OB association takes place. We calculate the CR energy spectrum, the change in CR  chemical composition with energy, and the energy dependence of the mean logarithm of atomic mass, lnA,  for the accelerated particles. The calculated values are compared with those observed near the break in the  energy spectrum. We estimate the turbulence parameters, which allow the observed features of the energy spectrum  and the CR enrichment with heavy elements to be explained. 2001 MAIK \u0026quot;Nauka\/Interperiodica\u0026quot;",
+        "fullText": null,
+        "fullTextIdentifier": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.6.7843",
+        "identifiers": [
+          "oai:CiteSeerX.psu:10.1.1.6.7843",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:CiteSeerX.psu:10.1.1.6.7843\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2009-04-18\u003C\/datestamp\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          MAIK \u0026quot;Nauka \/ Interperiodica\u0026quot; 0625\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Astronomy Letters Vol\u003C\/dc:creator\u003E\u003Cdc:description\u003E\n          The possibility of cosmic-ray (CR) acceleration to energies above 10    GeV per nucleus in extended  Galactic OB associations is analyzed. A two-stage acceleration mechanism is justified: at the first stage, the  acceleration by separate shock fronts from spatially and temporally correlated supernovae explosions takes  place, and, at the second stage, the Fermi acceleration by supersonic turbulence in an extended, strongly perturbed  region near the OB association takes place. We calculate the CR energy spectrum, the change in CR  chemical composition with energy, and the energy dependence of the mean logarithm of atomic mass, lnA,  for the accelerated particles. The calculated values are compared with those observed near the break in the  energy spectrum. We estimate the turbulence parameters, which allow the observed features of the energy spectrum  and the CR enrichment with heavy elements to be explained. 2001 MAIK \u0026quot;Nauka\/Interperiodica\u0026quot;.\u003C\/dc:description\u003E\u003Cdc:contributor\u003E\n          The Pennsylvania State University CiteSeerX Archives\u003C\/dc:contributor\u003E\u003Cdc:publisher\u003E\n          \u003C\/dc:publisher\u003E\u003Cdc:date\u003E\n          2009-04-18\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          2007-11-21\u003C\/dc:date\u003E\u003Cdc:format\u003E\n          application\/postscript\u003C\/dc:format\u003E\u003Cdc:type\u003E\n          text\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.6.7843\u003C\/dc:identifier\u003E\u003Cdc:source\u003E\n          http:\/\/www.ioffe.rssi.ru\/astro\/DTA\/..\/Stars\/Paper\/bt01.ps.gz\u003C\/dc:source\u003E\u003Cdc:language\u003E\n          en\u003C\/dc:language\u003E\u003Cdc:rights\u003E\n          Metadata may be used without restrictions as long as the oai identifier remains attached to it.\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "145",
+            "openDoarId": 0,
+            "name": "CiteSeerX",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1414017320000,
+          "metadataUpdated": 1529469712000,
+          "timestamp": 1240009200000,
+          "depositedDate": 1240009200000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.6.7843"
+        },
+        "similarities": null,
+        "subjects": [
+          "text"
+        ],
+        "title": "MAIK \u0026quot;Nauka \/ Interperiodica\u0026quot; 0625",
+        "topics": [],
+        "types": [],
+        "urls": [
+          "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.6.7843",
+          "http:\/\/www.ioffe.rssi.ru\/astro\/DTA\/..\/Stars\/Paper\/bt01.ps.gz"
+        ],
+        "year": 2007,
+        "doi": null,
+        "oai": "oai:CiteSeerX.psu:10.1.1.6.7843",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1240009200000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    },
+    {
+      "_index": "articles_2019_06_05",
+      "_type": "article",
+      "_id": "24419113",
+      "_score": 15.946904,
+      "_source": {
+        "id": "24419113",
+        "authors": [
+          "Laboratory For Astronomy"
+        ],
+        "citations": [],
+        "contributors": [
+          "The Pennsylvania State University CiteSeerX Archives"
+        ],
+        "datePublished": "1999",
+        "deleted": "ALLOWED",
+        "description": "of the solar wind#.  Updates on facility and instrumental progress and research highlights, including a bibliography of recent contributions, appear below. The nominal reporting period is July 1, 1999 - June 30, 2000.  Richard Fisher continued as Laboratory Chief with Edward Sullivan and John Wolfgang as Assistant Laboratory Chiefs. Charles Bennett remained as Infrared Astrophysics Branch Head, and Larry Orwig continued as Acting Head of the Instrument and Computer Systems Branch. Douglas Rabin from the National Solar Observatory joined the Laboratory as the Solar Physics Branch Head. Susan Neff has given up her UV\/Optical Astronomy Branch Head position to devote more time to research activities and Ronald Oliversen has been the Acting Head of the Branch.  1.0. INFRARED ASTROPHYSICS BRANCH  \u0026quot;C.L. BENNETT, HEAD...  The Branch engages in theoretical and observational infrared, submillimeter, and radio astrophysics, notably in studies of diffuse infrared and microwave background radiatio",
+        "fullText": null,
+        "fullTextIdentifier": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.61.2780",
+        "identifiers": [
+          "oai:CiteSeerX.psu:10.1.1.61.2780",
+          null
+        ],
+        "journals": null,
+        "language": null,
+        "duplicateId": null,
+        "publisher": null,
+        "rawRecordXml": "\u003Crecord\u003E\u003Cheader\u003E\u003Cidentifier\u003E\n    \n      \n        oai:CiteSeerX.psu:10.1.1.61.2780\u003C\/identifier\u003E\u003Cdatestamp\u003E\n        2009-04-19\u003C\/datestamp\u003E\n      \u003C\/header\u003E\u003Cmetadata\u003E\u003Coai_dc:dc xmlns:oai_dc=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/\u0022 xmlns:dc=\u0022http:\/\/purl.org\/dc\/elements\/1.1\/\u0022 xsi:schemaLocation=\u0022http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc\/ http:\/\/www.openarchives.org\/OAI\/2.0\/oai_dc.xsd\u0022 \u003E\u003Cdc:title\u003E\n      \n        \n          NASA\u0026apos;s Goddard Space Flight Center\u003C\/dc:title\u003E\u003Cdc:creator\u003E\n          Laboratory For Astronomy\u003C\/dc:creator\u003E\u003Cdc:subject\u003E\n          Sullivan and John Wolfgang as Assistant Laboratory\u003C\/dc:subject\u003E\u003Cdc:description\u003E\n          of the solar wind#.  Updates on facility and instrumental progress and research highlights, including a bibliography of recent contributions, appear below. The nominal reporting period is July 1, 1999 - June 30, 2000.  Richard Fisher continued as Laboratory Chief with Edward Sullivan and John Wolfgang as Assistant Laboratory Chiefs. Charles Bennett remained as Infrared Astrophysics Branch Head, and Larry Orwig continued as Acting Head of the Instrument and Computer Systems Branch. Douglas Rabin from the National Solar Observatory joined the Laboratory as the Solar Physics Branch Head. Susan Neff has given up her UV\/Optical Astronomy Branch Head position to devote more time to research activities and Ronald Oliversen has been the Acting Head of the Branch.  1.0. INFRARED ASTROPHYSICS BRANCH  \u0026quot;C.L. BENNETT, HEAD...  The Branch engages in theoretical and observational infrared, submillimeter, and radio astrophysics, notably in studies of diffuse infrared and microwave background radiation\u003C\/dc:description\u003E\u003Cdc:contributor\u003E\n          The Pennsylvania State University CiteSeerX Archives\u003C\/dc:contributor\u003E\u003Cdc:publisher\u003E\n          \u003C\/dc:publisher\u003E\u003Cdc:date\u003E\n          2009-04-19\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          2008-02-05\u003C\/dc:date\u003E\u003Cdc:date\u003E\n          1999\u003C\/dc:date\u003E\u003Cdc:format\u003E\n          application\/pdf\u003C\/dc:format\u003E\u003Cdc:type\u003E\n          text\u003C\/dc:type\u003E\u003Cdc:identifier\u003E\n          http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.61.2780\u003C\/dc:identifier\u003E\u003Cdc:source\u003E\n          http:\/\/www.aas.org\/publications\/baas\/v33n1\/013331basw.pdf\u003C\/dc:source\u003E\u003Cdc:language\u003E\n          en\u003C\/dc:language\u003E\u003Cdc:rights\u003E\n          Metadata may be used without restrictions as long as the oai identifier remains attached to it.\u003C\/dc:rights\u003E\n        \u003C\/oai_dc:dc\u003E\n      \u003C\/metadata\u003E\n    \u003C\/record\u003E",
+        "relations": [],
+        "repositories": [
+          {
+            "id": "145",
+            "openDoarId": 0,
+            "name": "CiteSeerX",
+            "uri": null,
+            "urlHomepage": null,
+            "urlOaipmh": null,
+            "uriJournals": null,
+            "physicalName": "noname",
+            "source": null,
+            "software": null,
+            "metadataFormat": null,
+            "description": null,
+            "journal": null,
+            "roarId": 0,
+            "pdfStatus": null,
+            "nrUpdates": 0,
+            "disabled": false,
+            "lastUpdateTime": null,
+            "repositoryLocation": null
+          }
+        ],
+        "repositoryDocument": {
+          "pdfStatus": 0,
+          "textStatus": 0,
+          "metadataAdded": 1414017385000,
+          "metadataUpdated": 1529471760000,
+          "timestamp": 1240095600000,
+          "depositedDate": 1240095600000,
+          "indexed": 1,
+          "deletedStatus": "0",
+          "pdfSize": 0,
+          "tdmOnly": false,
+          "pdfOrigin": "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.61.2780"
+        },
+        "similarities": null,
+        "subjects": [
+          "text"
+        ],
+        "title": "NASA\u0026apos;s Goddard Space Flight Center",
+        "topics": [
+          "Sullivan and John Wolfgang as Assistant Laboratory"
+        ],
+        "types": [],
+        "urls": [
+          "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.61.2780",
+          "http:\/\/www.aas.org\/publications\/baas\/v33n1\/013331basw.pdf"
+        ],
+        "year": 1999,
+        "doi": null,
+        "oai": "oai:CiteSeerX.psu:10.1.1.61.2780",
+        "downloadUrl": "",
+        "pdfHashValue": null,
+        "documentType": null,
+        "documentTypeConfidence": null,
+        "citationCount": null,
+        "estimatedCitationCount": null,
+        "acceptedDate": null,
+        "depositedDate": 1240095600000,
+        "publishedDate": null,
+        "issn": null,
+        "crossrefDocument": null,
+        "magDocument": null
+      }
+    }
+  ]
+}

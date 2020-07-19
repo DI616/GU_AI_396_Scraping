@@ -1,0 +1,217 @@
+[
+  {
+    "salary": [
+      180000,
+      200000,
+      "руб."
+    ],
+    "name": "Python developer",
+    "city": " Москва",
+    "description": "Написание API. API exchange и обработки данных. Разработка и оптимизация (server backend side) платежной системы (acquiring)Опыт с Python от 5 лет. Опыт в проектах e-commerce. Понимание работы сокетов. Опыт работы с алгоритмами ML AI AR. Амбициозность…",
+    "source": "https://superjob.ru",
+    "company": "Кадровое агентство уникальных специалистов"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Python / GO developer",
+    "city": " Самара",
+    "description": "Создание системы приема и обработки данных. Интеграция с внешними и внутренними сервисами (биллинг)Опыт работы с большими объемами данных. Знание Gо. Понимание микросервисной архитектуры. Понимание и умения в Rest (full) API",
+    "source": "https://superjob.ru",
+    "company": "SmaSS Technologies"
+  },
+  {
+    "salary": [
+      null,
+      300000,
+      "руб."
+    ],
+    "name": "Go developer",
+    "city": " Москва",
+    "description": "Реализация нового функционала и фич. Поддержка и развитие сервисаОпыт коммерческой разработки на Go от года. Отличные навыки написания SQL запросов и умение оптимизировать запросы и схемы",
+    "source": "https://superjob.ru",
+    "company": "Lucky Hunter"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Junior C/C++ Developer",
+    "city": " Москва, Свиблово",
+    "description": "Research and investigate internals of operating systems and existing applications. Work on innovative Parallels Desktop project…Good skills in C, C++. Responsible, self-driven, proactive, result oriented, team player. Knowledge and actual experience…",
+    "source": "https://superjob.ru",
+    "company": "Корел Рус"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Big Data Developer (Palantir Foundry)",
+    "city": " Москва",
+    "description": "Оценка и проверка новых возможностей платформы Foundry и согласование с командой архитекторов для реализации / обеспечения…Наличие опыта работы с платформой Palantir Foundry и интеграции с внешними системами. Опыт разработки приложений на Palantir…",
+    "source": "https://superjob.ru",
+    "company": "EPAM Systems"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Senior Backend Developer",
+    "city": " Москва, Алтуфьево и ещё 2 станции",
+    "description": "Реализация корпоративной клиент-серверной части чат-бот платформы в виде web-приложения, а именно. Отказоустойчивость системы…Высшее образование. Опыт работы от 1 года. Уверенный пользователь OS Linux/Unix. Умение проектировать и разрабатывать высоконагруженные…",
+    "source": "https://superjob.ru",
+    "company": "МФТИ"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Веб-программист Python",
+    "city": " Москва",
+    "description": "Бэкенд-разработкаОпыт бэкенд-разработки на языке программирования python, владение фреймворками Django. Владение веб-серверами вроде Nginx…",
+    "source": "https://superjob.ru",
+    "company": "Лайтман Солюшенс"
+  },
+  {
+    "salary": [
+      65000,
+      80000,
+      "руб."
+    ],
+    "name": "Разработчик (программист) Python",
+    "city": " Москва",
+    "description": "Разработка и сопровождение SPA-приложений. Написание чат-ботовЗнание Python 3.0+. Хорошее знание Django ORM, DRF. Знание Vue.js (Vuex, Vue Router). Основы администрирования СУБД PostgreSQL",
+    "source": "https://superjob.ru",
+    "company": "Ресурс"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Web-программист PHP, Python, ASP.NET Core MVC 2.x",
+    "city": " Нижний Новгород, Горьковская",
+    "description": "Разработка клиентской (front-end) и сервисной (back-end) сторон пользовательского интерфейса. Разработка и вёрстка макетовОтличное знание PHP, Python (опыт владения от 3-лет). Знание ASP.NET Core MVC 2 (опыт владения от года). Знание библиотеки…",
+    "source": "https://superjob.ru",
+    "company": "КВЦ"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Программист Python/С#",
+    "city": " Симферополь",
+    "description": "Разработка программного обеспечения для ведения бизнесаВладение Python C# .NET. Чтение документации и переписка на английском",
+    "source": "https://superjob.ru"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Full-stack-веб-программист python/javascript",
+    "city": " Москва",
+    "description": "Разработка веб-интерфейсов для баз данных по биоинформатике и медицинкой геномике для исследователей (включая визуализации…Опыт бэкенд-разработки на языке программирования python, владение фреймворками Django+Django REST Framework или aiohttp+jinja2",
+    "source": "https://superjob.ru",
+    "company": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ"
+  },
+  {
+    "salary": [
+      70000,
+      null,
+      "руб."
+    ],
+    "name": "Программист Python",
+    "city": " Рыбинск",
+    "description": "Сервиса, предоставляющего описание API всех наших подсистем. Нашего крупного сайта-агрегатора ресторанов, салонов красоты…Знание Python. Опыт работы с базами данных. Опыт коммерческой разработки. Понимание принципов ООП. Опыт разработки высоконагруженных…",
+    "source": "https://superjob.ru",
+    "company": "Тензор"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "DevOps Engineer",
+    "city": " Санкт-Петербург, Чкаловская",
+    "description": "Job duties. Perform product deployment and configuration using CI/CD. Perform QA functions as related to deployed productsRequired Qualifications/Skills. 3+ years of experience in IT Operations - SRE, DevOps and Technical Support. Strong understanding…",
+    "source": "https://superjob.ru",
+    "company": "БРОАДРИДЖ РУС"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Kotlin Team Lead Developer",
+    "city": " Москва",
+    "description": "В основе деятельности компании лежит переосмысление финансов, обеспечений интеллектуальных, персонализированных решений с…Язык разработки является для вас только средством достижения цели - вы можете выбрать подходящий язык (Kotlin, PHP или Python…",
+    "source": "https://superjob.ru",
+    "company": "EPAM Systems"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "С++ developer",
+    "city": " Самара",
+    "description": "Реализация и оптимизация алгоритмов на С/C++Хорошее владение С, компилятором и средствами отладки gcc и ОС Linux. Опыт оптимизации С/C++ кода, работа с утилитами, предоставляющими…",
+    "source": "https://superjob.ru",
+    "company": "SmaSS Technologies"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Ключевой разработчик Tableau",
+    "city": " Москва",
+    "description": "Обзор мокапов для дашбордов, подготовленных Клиентом использующим Tableau, и оценка усилий, необходимые для подготовления…Наличие опыта разработки Tableau 2-5 лет. Опыт работы с Python и SQL. Умение превращать потребности бизнеса в технические…",
+    "source": "https://superjob.ru",
+    "company": "EPAM Systems"
+  },
+  {
+    "salary": [
+      null,
+      null,
+      null
+    ],
+    "name": "Senior WEB-Developer",
+    "city": " Москва, Алтуфьево и ещё 2 станции",
+    "description": "Реализация корпоративной клиент-серверной части чат-бот платформы в виде web-приложения, а именно. Организация хранения данных…Высшее образование. Опыт работы от 1 года. Уверенный пользователь OS Linux/Unix. Опыт разработки на ASP.NET MVC, C#, Python, C/C++",
+    "source": "https://superjob.ru",
+    "company": "МФТИ"
+  },
+  {
+    "salary": [
+      75000,
+      null,
+      "руб."
+    ],
+    "name": "Программист Python",
+    "city": " Тюмень",
+    "description": "Мы ищем программистов Python, способных реализовывать крупные проекты от идеи до “продакшена” по разработке системы мотивации…",
+    "source": "https://superjob.ru",
+    "company": "Тензор"
+  }
+]

@@ -1,4 +1,5 @@
 import main
+import mongo
 import json
 
 profession = 'Python developer'
@@ -19,3 +20,7 @@ vacancies = main.get_items(sj_url, 1, get_params, parse_params)
 
 with open('sj_vacancies.json', 'w') as f:
     json.dump(vacancies, f, ensure_ascii=False)
+
+mongo.add_to_md(vacancies)
+
+mongo.find_salary()
